@@ -1,0 +1,107 @@
+*{
+    margin: 0.2%;
+    padding: 0%;
+    background-color: black;
+}
+
+.imagen1{
+    width: 97vw;
+    border-radius: 1rem;
+}
+
+.contenedor2{
+    position: relative;
+    display: inline-block;
+}
+
+.textoencima2{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.imagen2{
+    width: 55vw;
+    border-radius: 1rem;
+}
+
+.contenedor3{
+    position: relative;
+}
+
+.textoencima3{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.imagen3{
+    width: 27vw;
+    border-radius: 1rem;
+}
+
+.contenedor4{
+    position: relative;
+    margin-left: 1%;
+}
+
+.textoencima4{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.imagen4{
+    width: 27vw;
+    height: 40.4vw;
+    border-radius: 1rem;
+}
+
+.contenedor5{
+    position:relative;
+    margin-left: 0.8%;
+}
+
+.textoencima5{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.imagen5{
+    width: 41vw;
+    height: 50vw;
+    border-radius: 1rem;
+}
+
+.contenedor6{
+    position:relative;
+    margin-left: 0.8%;
+}
+
+.imagen6{
+    width: 41vw;
+    height: 21.5vw;
+    border-radius: 1rem;
+}
+
+.combinado1, .combinado2{
+    display: flex;
+}
+
+.combinado3{
+    display: flex;
+    flex-direction: column;
+}
